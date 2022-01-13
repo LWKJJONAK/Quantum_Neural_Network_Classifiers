@@ -1,1 +1,1 @@
-# Quantum_Neural_Network_Classifiers-Code_BriefReview_and_Benchmarks
+# Quantum_Neural_Network_Classifiers
