@@ -30,7 +30,7 @@ Examples of using Yao in other projects
 ## To Cite
 ```bibtex
 @article{Li2022QuantumNeural,
-    title={Quantum Neural Network Classifiers:  Code, Brief Review, and Benchmarks},
+    title={Quantum Neural Network Classifiers: Code, Brief Review, and Benchmarks},
     author={Li, Weikang and Lu, Zhide and Deng, Dong-Ling},
     eprint={arXiv:2205.00000},
     url={https://arxiv.org/abs/2205.00000}
