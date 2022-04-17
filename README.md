@@ -16,7 +16,7 @@ The codes are mainly provided in jupyter notebook formats with intermediate resu
 
 - [Amplitude-Encoding Based QNNs: Basic Building Blocks](amplitude_encode/amplitude_encoding_Sec_3.1.ipynb)
 - [Amplitude-Encoding Based QNNs: An Example Code For The Whole Training Procedure](amplitude_encode/an_example_code_for_the_whole_training_procedure.ipynb)
-- [Circuit-Encoding Based QNNs: An Example Code For The Whole Training Procedure](circuit_encode/circuit_encoding_Sec_4.1.ipynb)
+- [Block-Encoding Based QNNs: An Example Code For The Whole Training Procedure](block_encode/block_encoding_Sec_4.1.ipynb)
 
 ## Built With
 
@@ -36,7 +36,7 @@ Examples of using Yao in other projects
     url={https://arxiv.org/abs/2205.00000}
 }
 ```
-We experimentally implement the circuit-encoding based QNNs for large-scale (256-dimensional) real-life images' classifications, see also the paper
+We experimentally implement the block-encoding based QNNs for large-scale (256-dimensional) real-life images' classifications, see also the paper
 ```bibtex
 @article{Ren2022Experimental,
     title={Experimental quantum adversarial learning with programmable superconducting qubits},
