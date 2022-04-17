@@ -34,7 +34,7 @@ Examples of using Yao in other projects
     url={https://arxiv.org/abs/2205.00000}
 }
 ```
-We also experimentally implement the circuit-encoding based QNNs for large-scale (256-dimensional) real-life image classification, see the paper below
+We also experimentally implement the circuit-encoding based QNNs for large-scale (256-dimensional) real-life image classification, see also the paper
 ```bibtex
 @article{Ren2022Experimental,
     title={Experimental quantum adversarial learning with programmable superconducting qubits},
