@@ -2,7 +2,7 @@
 
 An implementation of quantum neural network (QNN) classifiers
 
-![](library/framework)
+![](library/framework.png)
 
 ## Download
 
