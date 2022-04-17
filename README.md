@@ -2,6 +2,8 @@
 
 An implementation of quantum neural network (QNN) classifiers
 
+![](library/framework.pdf)
+
 ## Download
 
 ```bash
