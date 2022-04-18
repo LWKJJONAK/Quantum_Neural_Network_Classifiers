@@ -12,6 +12,20 @@ $ git clone https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers
 
 The codes are mainly provided in jupyter notebook formats with intermediate results presented
 
+## Environment
+
+For the packages used in our simulations, there are multiple ways to install them.
+For the first way, the list of packages we used can be found at [Project.toml](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/blob/main/Project.toml) and the users can install them accordingly.
+For example, if we want to install Yao.jl, simply type ] to enter the Package manager mode
+and type "add Yao". Then the target package will be installed.
+
+An alternative way for Linux users is shown as follows.
+Julia's packages are installed at ~/.julia by default. So a convenient way to install the packages for our use is to download the two files ([Manifest.toml](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/blob/main/Manifest.toml) and [Project.toml](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/blob/main/Project.toml)) from this page, and put them at the folder .julia/environments/v1.7 (assuming we are using the version 1.7 of Julia). 
+In the last step, typing ] to enter the Package manager mode,
+typing "update" or "up" to update the packages and typing "build" will finish the installation.
+In this way, we can install all the packages at once, while some of them may not be necessary.
+For better coding experience, version 1.6 or higher of Julia is suggested.
+
 ## Contents
 
 - [Amplitude-Encoding Based QNNs: Basic Building Blocks](amplitude_encode/amplitude_encoding_Sec_3.1.ipynb)
@@ -21,6 +35,8 @@ The codes are mainly provided in jupyter notebook formats with intermediate resu
 ## Built With
 
 * [Yao](https://github.com/QuantumBFS/Yao.jl) - A framework for Quantum Algorithm Design
+
+Detailed installation instructions and toturials of Julia and Yao.jl can be found at [julialang.org](https://julialang.org/) and [yaoquantum.org](https://yaoquantum.org/), respectively.
 
 Examples of using Yao in other projects
 - [TensorNetwork Inspired Circuits](https://github.com/GiggleLiu/QuantumPEPS.jl)
