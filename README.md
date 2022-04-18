@@ -22,8 +22,8 @@ The codes are mainly provided in jupyter notebook formats with intermediate resu
 
 Over the recent years, quantum neural network models have attracted a lot of attention and explorations. One major direction of QNNs is to handle classification tasks. Here, we divide QNN classifiers into two categories according to the ways of data encoding as exhibited in the figure above:
 
-The amplitude encoding strategy is suitable for the situations where we have a quantum random access memory (QRAM) to fetch the data, or the data directly comes from a quantum process (natural quantum data).
-The block encoding strategy is suitable for the situations where we have to encode the classical data into the QNN models.
+- The amplitude encoding strategy is suitable for the situations where we have a quantum random access memory (QRAM) to fetch the data, or the data directly comes from a quantum process (natural quantum data).
+- The block encoding strategy is suitable for the situations where we have to encode the classical data into the QNN models.
 
 ## Environment
 
