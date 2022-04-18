@@ -12,6 +12,12 @@ $ git clone https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers
 
 The codes are mainly provided in jupyter notebook formats with intermediate results presented
 
+## Contents
+
+- [Amplitude-Encoding Based QNNs: Basic Building Blocks](amplitude_encode/amplitude_encoding_Sec_3.1.ipynb)
+- [Amplitude-Encoding Based QNNs: An Example Code For The Whole Training Procedure](amplitude_encode/an_example_code_for_the_whole_training_procedure.ipynb)
+- [Block-Encoding Based QNNs: An Example Code For The Whole Training Procedure](block_encode/block_encoding_Sec_4.1.ipynb)
+
 ## Environment
 
 For the packages used in our simulations, there are multiple ways to install them.
@@ -25,12 +31,6 @@ In the last step, typing ] to enter the Package manager mode,
 typing "update" or "up" to update the packages and typing "build" will finish the installation.
 In this way, we can install all the packages at once, while some of them may not be necessary.
 For better coding experience, version 1.6 or higher of Julia is suggested.
-
-## Contents
-
-- [Amplitude-Encoding Based QNNs: Basic Building Blocks](amplitude_encode/amplitude_encoding_Sec_3.1.ipynb)
-- [Amplitude-Encoding Based QNNs: An Example Code For The Whole Training Procedure](amplitude_encode/an_example_code_for_the_whole_training_procedure.ipynb)
-- [Block-Encoding Based QNNs: An Example Code For The Whole Training Procedure](block_encode/block_encoding_Sec_4.1.ipynb)
 
 ## Built With
 
