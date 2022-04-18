@@ -32,6 +32,10 @@ typing "update" or "up" to update the packages and typing "build" will finish th
 In this way, we can install all the packages at once, while some of them may not be necessary.
 For better coding experience, version 1.6 or higher of Julia is suggested.
 
+Notice: the version Yao#v0.7.4 seems not very consistent with many functions, e.g., the YaoPlots cannot plot the analog quantum layers, and the density_matrix() cannot handle the BatchedArrayReg type.
+Thus, it is suggested to use earlier versions such as Yao#v0.6.5. 
+(When future versions fix these issues, I'll delete this notice)
+
 ## Built With
 
 * [Yao](https://github.com/QuantumBFS/Yao.jl) - A framework for Quantum Algorithm Design
