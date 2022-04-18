@@ -62,6 +62,17 @@ Examples of using Yao in other projects
     eprint={arXiv:2205.00000},
     url={https://arxiv.org/abs/2205.00000}
 }
+
+@article{Luo2020Yao,
+  title = {Yao.Jl: {{Extensible}}, {{Efficient Framework}} for {{Quantum Algorithm Design}}},
+  author = {Luo, Xiu-Zhe and Liu, Jin-Guo and Zhang, Pan and Wang, Lei},
+  year = {2020},
+  journal = {Quantum},
+  volume = {4},
+  pages = {341},
+  doi = {10.22331/q-2020-10-11-341},
+  url = {https://quantum-journal.org/papers/q-2020-10-11-341/}
+}
 ```
 We experimentally implement the block-encoding based QNNs for large-scale (256-dimensional) real-life images' classifications, see also the paper
 ```bibtex
