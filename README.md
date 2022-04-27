@@ -18,6 +18,16 @@ The codes are mainly provided in jupyter notebook formats with intermediate resu
 - [Amplitude-Encoding Based QNNs: An Example Code For The Whole Training Procedure](amplitude_encode/an_example_code_for_the_whole_training_procedure.ipynb)
 - [Block-Encoding Based QNNs: An Example Code For The Whole Training Procedure](block_encode/block_encoding_Sec_4.1.ipynb)
 
+## Data
+
+In [Quantum Neural Network Classifiers: Codes, Brief Review, and Benchmarks](), we provide 5 Tables to exhibit the benchmarks. In addition to the average accuracy provided in this paper, in the complete data files, we also record the learning rate, the batch size, the number of iterations, the size of the training and test sets, and the accuracy/loss curves during the training process. The quick link is shown here:
+
+- [Table1](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table1)
+- [Table2](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table2)
+- [Table3](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table3)
+- [Table4](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/block_encode/Benchmark_Table4)
+- [Table5](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/block_encode/Benchmark_Table5)
+
 ## Motivation
 
 Over the recent years, quantum neural network models have attracted a lot of attention and explorations. One major direction of QNNs is to handle classification tasks. Here, we divide QNN classifiers into two categories according to the ways of data encoding as exhibited in the figure above:
@@ -57,7 +67,7 @@ Examples of using Yao in other projects
 ## To Cite
 ```bibtex
 @article{Li2022QuantumNeural,
-    title={Quantum Neural Network Classifiers: Code, Brief Review, and Benchmarks},
+    title={Quantum Neural Network Classifiers: Codes, Brief Review, and Benchmarks},
     author={Li, Weikang and Lu, Zhide and Deng, Dong-Ling},
     eprint={arXiv:2205.00000},
     url={https://arxiv.org/abs/2205.00000}
