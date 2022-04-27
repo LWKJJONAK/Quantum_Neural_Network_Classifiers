@@ -22,11 +22,11 @@ The codes are mainly provided in jupyter notebook formats with intermediate resu
 
 In [Quantum Neural Network Classifiers: Codes, Brief Review, and Benchmarks](), we provide 5 Tables to exhibit the benchmarks. In addition to the average accuracy provided in this paper, in the complete data files, we also record the learning rate, the batch size, the number of iterations, the size of the training and test sets, and the accuracy/loss curves during the training process. The quick link is shown here:
 
-- [Table1](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table1)
-- [Table2](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table2)
-- [Table3](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table3)
-- [Table4](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/block_encode/Benchmark_Table4)
-- [Table5](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/block_encode/Benchmark_Table5)
+- [Table 1](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table1)
+- [Table 2](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table2)
+- [Table 3](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/amplitude_encode/Benchmark_Table3)
+- [Table 4](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/block_encode/Benchmark_Table4)
+- [Table 5](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/block_encode/Benchmark_Table5)
 
 ## Motivation
 
