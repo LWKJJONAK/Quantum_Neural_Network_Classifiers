@@ -97,7 +97,7 @@ end
                 push!(acc_train_history, train_acc)
                 push!(acc_test_history, test_acc)
                 if k % 10 == 0
-                    @printf("\nStep=%d, loss=%.3f, acc=%.3f, test_loss=%.3f,test_acc=%.3f\n",k,train_loss,train_acc,test_loss,test_acc)
+                    # @printf("\nStep=%d, loss=%.3f, acc=%.3f, test_loss=%.3f,test_acc=%.3f\n",k,train_loss,train_acc,test_loss,test_acc)
                 end
                 # at each training epoch, randomly choose a batch of samples from the training set
                 batch_index = randperm(size(x_train)[2])[1:batch_size]
