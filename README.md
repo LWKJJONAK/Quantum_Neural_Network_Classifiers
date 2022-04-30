@@ -66,11 +66,13 @@ Examples of using Yao in other projects
 
 ## To Cite
 ```bibtex
-@article{Li2022QuantumNeural,
+@unpublished{Li2022QuantumNeural,
     title={Quantum Neural Network Classifiers: Codes, Brief Review, and Benchmarks},
     author={Li, Weikang and Lu, Zhide and Deng, Dong-Ling},
+    year = {2022},
     eprint={arXiv:TBD},
-    url={https://arxiv.org/abs/TBD}
+    eprinttype = {arxiv},
+    archiveprefix = {arXiv}
 }
 
 @article{Luo2020Yao,
@@ -86,12 +88,14 @@ Examples of using Yao in other projects
 ```
 We experimentally implement the block-encoding based QNNs for large-scale (256-dimensional) real-life images' classifications, see also the paper
 ```bibtex
-@article{Ren2022Experimental,
-    title={Experimental quantum adversarial learning with programmable superconducting qubits},
-    author={W Ren*, W Li*, S Xu*, K Wang, W Jiang, F Jin, X Zhu, J Chen, Z Song, P Zhang, H Dong, X Zhang, 
-    J Deng, Y Gao, C Zhang, Y Wu, B Zhang, Q Guo, H Li, Z Wang, J Biamonte, C Song, DL Deng, and H. Wang},
-    eprint={arXiv:2204.01738},
-    url={https://arxiv.org/abs/2204.01738}
+@unpublished{Ren2022Experimental,
+  title = {Experimental Quantum Adversarial Learning with Programmable Superconducting Qubits},
+  author = {Ren, Wenhui and Li, Weikang and Xu, Shibo and Wang, Ke and Jiang, Wenjie and Jin, Feitong and Zhu, Xuhao and Chen, Jiachen and Song, Zixuan and Zhang, Pengfei and Dong, Hang and Zhang, Xu and Deng, Jinfeng and Gao, Yu and Zhang, Chuanyu and Wu, Yaozu and Zhang, Bing and Guo, Qiujiang and Li, Hekang and Wang, Zhen and Biamonte, Jacob and Song, Chao and Deng, Dong-Ling and Wang, H.},
+  year = {2022},
+  month = apr,
+  eprint = {2204.01738},
+  eprinttype = {arxiv},
+  archiveprefix = {arXiv}
 }
 ```
 
