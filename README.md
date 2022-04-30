@@ -57,7 +57,7 @@ Thus, it is suggested to use earlier versions such as Yao#v0.6.5.
 
 * [Yao](https://github.com/QuantumBFS/Yao.jl) - A framework for Quantum Algorithm Design
 
-Detailed installation instructions and toturials of Julia and Yao.jl can be found at [julialang.org](https://julialang.org/) and [yaoquantum.org](https://yaoquantum.org/), respectively.
+Detailed installation instructions and tutorials of Julia and Yao.jl can be found at [julialang.org](https://julialang.org/) and [yaoquantum.org](https://yaoquantum.org/), respectively.
 
 Examples of using Yao in other projects
 - [TensorNetwork Inspired Circuits](https://github.com/GiggleLiu/QuantumPEPS.jl)
