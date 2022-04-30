@@ -92,7 +92,6 @@ We experimentally implement the block-encoding based QNNs for large-scale (256-d
   title = {Experimental Quantum Adversarial Learning with Programmable Superconducting Qubits},
   author = {Ren, Wenhui and Li, Weikang and Xu, Shibo and Wang, Ke and Jiang, Wenjie and Jin, Feitong and Zhu, Xuhao and Chen, Jiachen and Song, Zixuan and Zhang, Pengfei and Dong, Hang and Zhang, Xu and Deng, Jinfeng and Gao, Yu and Zhang, Chuanyu and Wu, Yaozu and Zhang, Bing and Guo, Qiujiang and Li, Hekang and Wang, Zhen and Biamonte, Jacob and Song, Chao and Deng, Dong-Ling and Wang, H.},
   year = {2022},
-  month = apr,
   eprint = {2204.01738},
   eprinttype = {arxiv},
   archiveprefix = {arXiv}
