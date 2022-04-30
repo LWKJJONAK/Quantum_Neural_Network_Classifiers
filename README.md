@@ -70,7 +70,7 @@ Examples of using Yao in other projects
     title={Quantum Neural Network Classifiers: Codes, Brief Review, and Benchmarks},
     author={Li, Weikang and Lu, Zhide and Deng, Dong-Ling},
     year = {2022},
-    eprint={arXiv:TBD},
+    eprint={TBD},
     eprinttype = {arxiv},
     archiveprefix = {arXiv}
 }
