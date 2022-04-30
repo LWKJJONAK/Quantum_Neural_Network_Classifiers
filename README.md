@@ -69,8 +69,8 @@ Examples of using Yao in other projects
 @article{Li2022QuantumNeural,
     title={Quantum Neural Network Classifiers: Codes, Brief Review, and Benchmarks},
     author={Li, Weikang and Lu, Zhide and Deng, Dong-Ling},
-    eprint={arXiv:2205.00000},
-    url={https://arxiv.org/abs/2205.00000}
+    eprint={arXiv:TBD},
+    url={https://arxiv.org/abs/TBD}
 }
 
 @article{Luo2020Yao,
