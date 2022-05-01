@@ -67,7 +67,7 @@ Examples of using Yao in other projects
 ## To Cite
 ```bibtex
 @unpublished{Li2022QuantumNeural,
-    title={Quantum Neural Network Classifiers:  A Pedagogical Tutorial},
+    title={Quantum Neural Network Classifiers: A Pedagogical Tutorial},
     author={Li, Weikang and Lu, Zhide and Deng, Dong-Ling},
     year = {2022},
     eprint={TBD},
