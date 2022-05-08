@@ -86,7 +86,7 @@ Examples of using Yao in other projects
   url = {https://quantum-journal.org/papers/q-2020-10-11-341/}
 }
 ```
-We experimentally implement the block-encoding based QNNs for large-scale (256-dimensional) real-life images' classifications, see also the paper
+We experimentally implement the block-encoding based QNNs for large-scale (256-dimensional) real-life images' classifications, see also the paper "Experimental Quantum Adversarial Learning with Programmable Superconducting Qubits"
 ```bibtex
 @unpublished{Ren2022Experimental,
   title = {Experimental Quantum Adversarial Learning with Programmable Superconducting Qubits},
