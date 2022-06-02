@@ -1,6 +1,6 @@
 name = "Quantum_Neural_Network_Classifiers"
 uuid = "99f4cae6-d6e8-4d3e-8b4b-2e0f17a78ee6"
-authors = ["GiggleLiu <cacate0129@gmail.com> and contributors"]
+authors = ["WeikangLi <lwk20@mails.tsinghua.edu.cn> and contributors"]
 version = "0.1.0"
 
 [deps]
