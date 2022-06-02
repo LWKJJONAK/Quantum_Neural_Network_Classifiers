@@ -1,0 +1,21 @@
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Quantum_Neural_Network_Classifiers = "99f4cae6-d6e8-4d3e-8b4b-2e0f17a78ee6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Yao = "5872b779-8223-5990-8dd0-5abbb0748c8c"
+YaoPlots = "32cfe2d9-419e-45f2-8191-2267705d8dbc"
+
+[compat]
+Flux = "0.13"
+MAT = "0.10"
+Plots = "1"
+PyPlot = "2"
+StatsBase = "0.33"
+Yao = "0.8"
+YaoPlots = "0.7"
