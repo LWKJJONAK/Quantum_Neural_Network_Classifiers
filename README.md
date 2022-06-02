@@ -2,9 +2,9 @@
 
 An implementation of quantum neural network (QNN) classifiers
 
-![](library/framework.png)
+![](assets/framework.png)
 
-## Download
+## Setup
 
 ```bash
 $ git clone https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers
