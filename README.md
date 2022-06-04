@@ -87,4 +87,4 @@ We experimentally implement the block-encoding based QNNs for large-scale (256-d
 
 ## License
 
-Released under [GPL-3.0 License](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/blob/main/LICENSE)
+Released under [MIT License](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/blob/main/LICENSE)
