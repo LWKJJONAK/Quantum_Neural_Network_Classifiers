@@ -15,7 +15,7 @@ $ julia --project=block_encode -e "using Pkg; Pkg.instantiate()"
 
 Then the environments for the codes provided in jupyter notebook formats will be built.
 
-In addition, for better compatibility, version 1.7 or higher of Julia is suggested.
+In addition, for better compatibility, use version 1.7 or higher of Julia.
 
 ## Contents
 
