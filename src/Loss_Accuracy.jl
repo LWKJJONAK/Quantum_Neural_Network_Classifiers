@@ -1,5 +1,5 @@
 # for amplitude encoding
-function acc_loss_rdm_cu(circuit::ChainBlock ,reg::AbstractArrayReg, y_batch::Matrix{Float64},batch_size::Int64, pos_::Int64)
+function acc_loss_evaluation(circuit::ChainBlock ,reg::AbstractArrayReg, y_batch::Matrix{Float64},batch_size::Int64, pos_::Int64)
     res = copy(reg) |> circuit
     q_ = zeros(batch_size,2);
     for i=1:batch_size
@@ -15,7 +15,7 @@ function acc_loss_rdm_cu(circuit::ChainBlock ,reg::AbstractArrayReg, y_batch::Ma
 end
 
 # for block encoding
-function acc_loss_rdm_cu(nbit::Int64, circuit::Vector, y_batch::Matrix{Float64},batch_size::Int64, pos_::Int64)
+function acc_loss_evaluation(nbit::Int64, circuit::Vector, y_batch::Matrix{Float64},batch_size::Int64, pos_::Int64)
     q_ = zeros(batch_size,2);
     for i=1:batch_size
         res = zero_state(nbit) |> circuit[i]
