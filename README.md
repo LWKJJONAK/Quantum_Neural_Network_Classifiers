@@ -25,7 +25,7 @@ In addition, for better compatibility, use version 1.7 or higher of Julia.
 
 ## Data
 
-In the paper [Quantum Neural Network Classifiers: A Tutorial](https://arxiv.org/abs/2206.02806), we provide 5 Tables to exhibit the benchmarks. In addition to the average accuracy provided in this paper, in the complete data files, we also record the learning rate, the batch size, the number of iterations, the size of the training and test sets, and the accuracy/loss curves during the training process. The quick link is shown here: (the code for this part will not be updated, since in these links we have provided all the 55000 data files recording the numerical results)
+In the paper [Quantum Neural Network Classifiers: A Tutorial](https://www.scipost.org/SciPostPhysLectNotes.61), we provide 5 Tables to exhibit the benchmarks. In addition to the average accuracy provided in this paper, in the complete data files, we also record the learning rate, the batch size, the number of iterations, the size of the training and test sets, and the accuracy/loss curves during the training process. The quick link is shown here: (the code for this part will not be updated, since in these links we have provided all the 55000 data files recording the numerical results)
 
 - [Table 1: Different depths & Three digital entangling layers](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/benchmark_data/Benchmark_Table1)
 - [Table 2: Different analog layers’ Hamiltonian evolution time & Depths 1, 3, 5](https://github.com/LWKJJONAK/Quantum_Neural_Network_Classifiers/tree/main/benchmark_data/Benchmark_Table2)
@@ -53,13 +53,15 @@ Examples of using Yao in other projects
 
 ## To Cite
 ```bibtex
-@unpublished{Li2022QuantumNeural,
-    title={Quantum Neural Network Classifiers: A Tutorial},
-    author={Li, Weikang and Lu, Zhide and Deng, Dong-Ling},
-    year = {2022},
-    eprint={2206.02806},
-    eprinttype = {arxiv},
-    archiveprefix = {arXiv}
+@Article{Li2022Quantum,
+	title={{Quantum Neural Network Classifiers: A Tutorial}},
+	author={Weikang Li and Zhide Lu and Dong-Ling Deng},
+	journal={SciPost Phys. Lect. Notes},
+	volume={61},
+	year={2022},
+	publisher={SciPost},
+	doi={10.21468/SciPostPhysLectNotes.61},
+	url={https://scipost.org/10.21468/SciPostPhysLectNotes.61},
 }
 
 @article{Luo2020Yao,
