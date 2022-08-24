@@ -54,14 +54,14 @@ Examples of using Yao in other projects
 ## To Cite
 ```bibtex
 @Article{Li2022Quantum,
-	title={{Quantum Neural Network Classifiers: A Tutorial}},
-	author={Weikang Li and Zhide Lu and Dong-Ling Deng},
-	journal={SciPost Phys. Lect. Notes},
-	volume={61},
-	year={2022},
-	publisher={SciPost},
-	doi={10.21468/SciPostPhysLectNotes.61},
-	url={https://scipost.org/10.21468/SciPostPhysLectNotes.61},
+  title={{Quantum Neural Network Classifiers: A Tutorial}},
+  author={Weikang Li and Zhide Lu and Dong-Ling Deng},
+  journal={SciPost Phys. Lect. Notes},
+  volume={61},
+  year={2022},
+  publisher={SciPost},
+  doi={10.21468/SciPostPhysLectNotes.61},
+  url={https://scipost.org/10.21468/SciPostPhysLectNotes.61},
 }
 
 @article{Luo2020Yao,
