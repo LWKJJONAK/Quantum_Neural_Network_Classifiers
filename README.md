@@ -18,13 +18,14 @@ Then the environments for the codes provided in jupyter notebook formats will be
 Note: In order to use PyPlot, you will need to have the Python [Matplotlib](http://matplotlib.org/)
 library installed on your machine first.
 
-In addition, for better compatibility, use version 1.7 or higher of Julia.
-
 In case you have a dark background, change the line and text color of YaoPlots.plot:
 ```bash
 CircuitStyles.textcolor[]="yellow"
 CircuitStyles.linecolor[]="yellow"
 ```
+(Here, we acknowledge the valuable input from Dr. Erlebacher)
+
+In addition, for better compatibility, use version 1.7 or higher of Julia.
 
 ## Contents
 
