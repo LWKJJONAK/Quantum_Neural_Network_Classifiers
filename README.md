@@ -15,7 +15,16 @@ $ julia --project=block_encode -e "using Pkg; Pkg.instantiate()"
 
 Then the environments for the codes provided in jupyter notebook formats will be built.
 
+Note: In order to use PyPlot, you will need to have the Python [Matplotlib](http://matplotlib.org/)
+library installed on your machine first.
+
 In addition, for better compatibility, use version 1.7 or higher of Julia.
+
+In case you have a dark background, change the line and text color of YaoPlots.plot:
+```bash
+CircuitStyles.textcolor[]="yellow"
+CircuitStyles.linecolor[]="yellow"
+```
 
 ## Contents
 
