@@ -25,7 +25,7 @@ CircuitStyles.linecolor[]="yellow"
 ```
 (Here, we acknowledge the valuable input from Dr. Erlebacher)
 
-In addition, for better compatibility, use version 1.7 or higher of Julia.
+In addition, for better compatibility, use version 1.7 of Julia.
 
 ## Contents
 
